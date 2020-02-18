@@ -51,7 +51,7 @@ class Counter extends React.Component {
           <input
             onChange={this.handleNumber}
             type="number"
-            placeholder="Enter number"
+            placeholder="Enter to win a free trip"
           />
         </form>
       </section>
